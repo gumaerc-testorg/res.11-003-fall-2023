@@ -31,7 +31,7 @@
   "course_title": "Climate Justice Instructional Toolkit",
   "hide_download": true,
   "site_short_id": "res.11-003-fall-2023",
-  "course_description": "The primary goal of these resources and programming, created as part of a larger initiative to expand climate justice education at MIT, is to provide support to faculty members and instructors across disciplines in integrating climate justice content and related instructional approaches into their courses.\n\nFunded by the [Alumni Class Funds Grant](https://registrar.mit.edu/faculty-curriculum-support/education-initiatives-funding/alumni-class-funds), the Toolkit houses a wide range of climate-justice-adaptable teaching modules, a starter guide for teaching climate justice, resources for students, and climate justice data sets that can serve as supportive tools to enhance teaching content and approaches.",
+  "course_description": "The primary goal of these resources and programming, created as part of a larger initiative to expand climate justice education at MIT, is to provide support to faculty members and instructors across disciplines in integrating climate justice content and related instructional approaches into their courses.\n\nFunded by the {{% resource_link \"0d214367-86d1-4c48-8b3a-ae036ca6c4d1\" \"Alumni Class Funds Grant\" %}}, the Toolkit houses a wide range of climate-justice-adaptable teaching modules, a starter guide for teaching climate justice, resources for students, and climate justice data sets that can serve as supportive tools to enhance teaching content and approaches.",
   "department_numbers": [
     "RES",
     "11"
