@@ -1,7 +1,7 @@
 leftnav:
-- identifier: external--376293363-1697542772389
+- identifier: c58b8ca3-5ae0-48ae-b272-bdb02d4466dd
   name: The Toolkit
-  url: https://environmentalsolutions.mit.edu/climate-justice-instructional-toolkit/
+  pageRef: /external-resources/the-toolkit_c58b8ca3-5ae0-48ae-b272-bdb02d4466dd
   weight: 10
 - identifier: 2ed2f0a0-195d-4472-b20a-157fa2166a25
   name: Instructor Insights
