@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-11-003-climate-justice-instructional-toolkit-fall-2023/mitres_11_003_f23_chp.png
+file: courses/climate-justice-toolkit/mitres_11_003_f23_chp.png
 file_size: 92315
 file_type: image/png
 image_metadata:
